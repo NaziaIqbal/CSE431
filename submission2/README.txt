@@ -2,7 +2,7 @@ Link to unlisted youtube video:
 https://youtube.com/.....
 
 Link to the slide:
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1tSF6JT9eq9EPCfUFgOkru7Z61mYtViZj6gEx77wuzek/edit?usp=sharing
 
 Paper title:
 Emotion Classification in a Resource Constrained Language Using Transformer-based Approach
