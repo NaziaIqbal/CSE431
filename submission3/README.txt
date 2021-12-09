@@ -2,7 +2,7 @@ Link to unlisted youtube video:
 https://youtube.com/.....
 
 Link to the Concept Map:
-https://draw.io/...
+https://drive.google.com/file/d/178BCAvGHDSucqP8FQfSiFk8RV2D7DpTj/view?usp=sharing
 
 Name, Author, Edition, year and publisher of the Book:
 Speech and Language Processing
@@ -12,17 +12,15 @@ Jurafsky
 Pearson
 
 Link to the book:
-https://amazon.com/...
+https://web.stanford.edu/~jurafsky/slp3/
 
 Link to the book chapter:
-https://books.google.com/books...
+https://web.stanford.edu/~jurafsky/slp3/15.pdf
 
 Group Number:
-0
+21
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
-56789012 Name E
+18101006 Khondoker Nazia Iqbal
+18101049 Md Imdadul Haque Emon
+
