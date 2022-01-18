@@ -26,6 +26,7 @@ did something else
 ...
 
 was active in slack:
+https://bucse712fall2021.slack.com/archives/C02GE7F3YSZ/p1642506828037900
 https://bucse712fall2021.slack.com/archives/C02GH7LKZT4/p1634995331003400
 https://bucse712fall2021.slack.com/archives/C02GVQTUF6V/p1639639442019300
 https://bucse712fall2021.slack.com/archives/C02K2LE6YUA/p1638030655002500
