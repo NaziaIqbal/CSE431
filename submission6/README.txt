@@ -7,7 +7,14 @@ someone@gmail.com
 https://edx.org/learn/this_is_a_course
 
 completed youtube video:
-http://youtube....
+https://youtu.be/uCZ9nAe76Ss
+https://youtu.be/oWsMIW-5xUc
+https://youtu.be/EyzTQ0OKeNw
+https://youtu.be/pEwBjcYdcKw
+https://youtu.be/FFsya-nq2Go
+https://youtu.be/tJBvmkNsoN8
+https://youtu.be/IORWHyS525U
+https://youtu.be/p1ccbR2P_xA
 
 completed book:
 http://book
