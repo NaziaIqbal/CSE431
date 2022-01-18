@@ -26,8 +26,10 @@ did something else
 ...
 
 was active in slack:
-http://slack post URL1
-http://slack post URL2
+https://bucse712fall2021.slack.com/archives/C02GH7LKZT4/p1634995331003400
+https://bucse712fall2021.slack.com/archives/C02GVQTUF6V/p1639639442019300
+https://bucse712fall2021.slack.com/archives/C02K2LE6YUA/p1638030655002500
+https://bucse712fall2021.slack.com/archives/C02K2LE6YUA/p1638013675002000
 
 Submitter:
 18101006 Khondoker Nazia Iqbal
